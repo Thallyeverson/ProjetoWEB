@@ -1,6 +1,6 @@
 {
     "name": "Node.js",
-    "dockerFile": "Dockerfile",
+    "dockerFile": "dockerfile",
     "settings": {
       "terminal.integrated.shell.linux": "/bin/bash"
     },
